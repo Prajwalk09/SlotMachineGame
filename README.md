@@ -1,6 +1,6 @@
 # SlotMachineGame
 
-Welcome to the Slot Machine Game! This simple Python program allows users to experience the thrill of playing a virtual slot machine. Place your bets, spin the reels, and see if luck is on your side.
+Welcome to the Slot Machine Game! This simple Python program allows you to experience the thrill of playing a virtual slot machine. Place your bets, spin the reels, and see if luck is on your side.
 
 ## Game Overview
 A slot machine where users can bet a sum of money on a particular line (out of lines 1, 2, and 3). If a user wins the bet, the bet amount will be multiplied by the number on the line and returned to the user. The user can continue playing until they have money or run out of money.
